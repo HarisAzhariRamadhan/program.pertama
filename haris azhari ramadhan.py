@@ -1,0 +1,6 @@
+print('Nama saya haris')
+print('alamat saya di kacang pedang')
+print('hobi saya main game dan bermain bola')
+print('asal sekolah saya SMA NEGERI 1 Pangkalpinang')
+print('ini program pertama saya')
+print('saya lahir pada tanggal 3 november 2004')
